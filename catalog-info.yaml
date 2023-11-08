@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-configuration-files
+  annotations:
+    github.com/project-slug: kzhelyazkova/terraform-configuration-files
+spec:
+  type: other
+  lifecycle: unknown
+  owner: kzhelyazkova
